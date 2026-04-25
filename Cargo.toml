@@ -2,9 +2,9 @@
 name = "mcosm"
 version = "2.7.1"
 edition = "2021"
-description = "Arnis - Generate real life cities in Minecraft"
-homepage = "https://github.com/louis-e/arnis"
-repository = "https://github.com/louis-e/arnis"
+description = "mcosm - Generate real life cities in Minecraft"
+homepage = "https://github.com/koharachan/mcosm"
+repository = "https://github.com/koharachan/mcosm"
 license = "Apache-2.0"
 readme = "README.md"
 
